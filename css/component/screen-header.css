@@ -6,6 +6,8 @@
     margin-left: 15px;
     margin-bottom: 25px;
     padding-right: 15px;
+    z-index: 1;
+    top: 10px;
 }
 
 .screen-header__title {
@@ -24,4 +26,8 @@
 
 .screen-header__icons {
     position: relative;
+}
+
+.nav__notification-2__more {
+    left: 119px;
 }

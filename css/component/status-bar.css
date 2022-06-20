@@ -5,10 +5,8 @@
     padding: 5px 3px;
     width: 100%;
     box-sizing: border-box;
-    border-collapse: separate;
-    margin-top: 2;
     background-color: white;
-    z-index: 2;
+    margin-top: auto;
 }
 
 .status-bar__column {
